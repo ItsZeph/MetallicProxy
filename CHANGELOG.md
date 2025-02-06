@@ -1,4 +1,4 @@
-# Changelog
+# Changelo
 ### Version 0.1
 - [x] Proxathon version
 
